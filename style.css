@@ -1,0 +1,38 @@
+body{
+    background:darkblue;
+}
+div{
+    text-align: center;
+    background-color: aliceblue;
+    width: 50%;
+    height: 50vh;
+    text-align: center;
+    margin: 100px;
+    margin-left: 25%;
+    border-radius: 5px;
+    box-shadow: 4px 4px 0 7px rgb(214, 231, 245);
+}
+h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color:darkblue;
+  }
+  #num1{
+   width: 200px;
+   height: 20px;
+   border-radius: 5px;
+  }
+  #num2{
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+   }
+  .bt{
+    width: 25%;
+    height: 5vh;
+    border-radius: 5px;
+    margin-top: 40px;
+    background-color: rgb(43, 43, 148);
+    color: aliceblue;
+  }
